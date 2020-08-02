@@ -7,7 +7,7 @@ is the file you need to edit to change the look of the
 theme.
 ---------------------------------------------------- */
 /*=====================================================================
-@Template Name: HostHub Construction 
+@Template Name: HostHub Construction
 @Developed By: Naim Lasker
 Author E-mail: naimlasker@gmail.com
 
@@ -495,7 +495,7 @@ img {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat center center;
+  background: url(../img/banner-background.png) no-repeat center center;
   background-size: cover; }
   .home_banner_area .banner_inner {
     width: 100%; }
@@ -572,7 +572,7 @@ img {
   position: relative;
   min-height: 430px;
   z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat center center;
+  background: url(../img/banner-background.png) no-repeat center center;
   background-size: cover; }
   .banner_area .banner_inner {
     position: relative;
