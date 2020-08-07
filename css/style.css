@@ -2905,7 +2905,7 @@ h6 {
 ============================================================================================ */
 .testimonials_area {
   position: relative;
-  background: url(../img/testimonial_bg.png) no-repeat center;
+  /* background: url(../img/testimonial_bg.png) no-repeat center; */
   background-size: cover; }
 
 .testi_slider {
@@ -2921,7 +2921,7 @@ h6 {
     margin-bottom: 0; } }
 .testi_item h4 {
   font-size: 18px;
-  color: #fff;
+  color: #22195e;
   margin-top: 20px;
   margin-bottom: 10px; }
 .testi_item .list {
@@ -2937,7 +2937,7 @@ h6 {
   font-size: 18px;
   font-family: "Roboto", sans-serif;
   font-style: italic;
-  color: #fff; }
+  color: #777777; }
 
 /* End Testimonial Area css
 ============================================================================================ */

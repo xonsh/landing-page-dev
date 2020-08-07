@@ -3309,7 +3309,7 @@ h6 {
 //--------- Testimonials Area -------------//*/
 .testimonials_area {
   position: relative;
-  background: url(../img/testimonial_bg.png) no-repeat center;
+  /* background: url(../img/testimonial_bg.png) no-repeat center; */
   background-size: cover;
 }
 .testimonials_area .owl-controls {
